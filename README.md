@@ -1,16 +1,19 @@
-# sen201-login-authentication-system
 # Login Authentication System
 
-This is a simple Python-based login authentication system created for the SEN 201 course.
+Name: Adegoke David  
+Matric Number: 24/14173  
+
+## Project Description
+This is a simple Python-based login authentication system developed for the SEN 201 course.
 
 ## Features
 - User registration
 - User login authentication
 - Command-line interface
 
-## Technology
+## Technology Used
 - Python
 
-## SDLC
-This project follows the Software Development Life Cycle:
-Requirement Analysis, Design, Implementation, Testing, Deployment, and Maintenance.
+## Software Development Life Cycle (SDLC)
+This project follows the SDLC phases:
+Requirement Analysis, System Design, Implementation, Testing, Deployment, and Maintenance.
